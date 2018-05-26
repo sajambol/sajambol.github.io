@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="twitter" unicode="&#xe800;" d="M0-37q30-3 60-3 176 0 314 108-82 1-147 50t-89 125q20-4 47-4 35 0 67 9-88 17-145 87t-58 160l0 3q53-30 115-31-52 34-82 90t-31 120q0 68 35 127 94-117 230-186t290-78q-7 33-7 58 0 104 74 178t179 74q109 0 184-80 87 18 160 62-28-91-110-140 73 9 144 40-48-75-125-131l0-33q0-101-29-202t-90-194-145-165-201-115-253-42q-209 0-387 113z" horiz-adv-x="1230" />
+
+<glyph glyph-name="plus" unicode="&#xe801;" d="M679 314v72q0 14-11 25t-25 10h-143v143q0 15-11 25t-25 11h-71q-15 0-25-11t-11-25v-143h-143q-14 0-25-10t-10-25v-72q0-14 10-25t25-10h143v-143q0-15 11-25t25-11h71q15 0 25 11t11 25v143h143q14 0 25 10t11 25z m178 36q0-117-57-215t-156-156-215-58-216 58-155 156-58 215 58 215 155 156 216 58 215-58 156-156 57-215z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook" unicode="&#xf30d;" d="M480 830q200 0 340-140t140-340q0-198-140-339t-340-141-340 141-140 339q0 200 140 340t340 140z m114-330l0 78-72 0q-44 0-74-33t-30-81l0-44-76 0 0-74 76 0 0-222 86 0 0 222 90 0 0 74-90 0 0 52q0 28 18 28l72 0z" horiz-adv-x="960" />
+
+<glyph glyph-name="instagram" unicode="&#xf32d;" d="M690 350q0 26-6 50l176 0 0-344q0-56-39-96t-95-40l-592 0q-56 0-95 40t-39 96l0 344 174 0q-4-32-4-50 0-106 76-183t184-77q106 0 183 77t77 183z m36 430q56 0 95-39t39-95l0-146-218 0q-78 110-212 110-138 0-212-110l-218 0 0 146q0 56 39 95t95 39l592 0z m64-166l0 72q0 24-24 24l-72 0q-24 0-24-24l0-72q0-8 7-16t17-8l72 0q24 0 24 24z m-200-264q0-66-47-113t-113-47-113 47-47 113q0 68 47 114t113 46 113-46 47-114z" horiz-adv-x="860" />
+</font>
+</defs>
+</svg>
