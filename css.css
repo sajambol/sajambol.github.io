@@ -1,4 +1,10 @@
-#emcabezado h1{
+body{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 300px;
+
+}
+ h1{
     text-align: right;
     font-size: 15px;
 }
