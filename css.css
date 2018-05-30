@@ -8,11 +8,11 @@ body {
     font-style: italic;
   }
 
-  .sender {
+  p.sender {
       text-align: right;
   }
 
-  .column {
+  p.column {
  font-style: italic;
   }
 
