@@ -2,7 +2,7 @@
 .caja1{
 
         font-family: sans-serif;
-        
+        margin-left: 120px;
         font-size: 18px;
         
         font-weight: 400;
@@ -16,9 +16,9 @@
   
   p{
       color: aliceblue;
-      width: auto;
-      height: 70px;
-      width: 40px;
+      /* width: auto; */
+      /* height: 70px; */
+      /* width: 40px; */
       text-align: left;
       
      
