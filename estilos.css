@@ -22,7 +22,8 @@ h1{
   }
   
    p{
-       background: #7a7175;
+       background: #ffffff;
+       border: 10px ;
     text-decoration: none;
     text-align: left;
     width: 100%;
