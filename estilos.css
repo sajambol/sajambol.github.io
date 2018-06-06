@@ -1,12 +1,14 @@
 
 .caja1{
     float: left;
-    background: #333;
+    background: #2a2;
     color: #aaa;
     border:5px solid blue;
-    text-align: center;
+    
   }
+  
   p{
+ display: none;
 text-align: center;
      
 
@@ -15,4 +17,15 @@ text-align: center;
       float:right;
       border: 4px solid blue;
   }
+
+  .caja3{
+    float:left;
+    border: 4px solid blue;
+}
+.caja4{
+    float:right;
+    border: 4px solid blue;
+}
+
+
   
