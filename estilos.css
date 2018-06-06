@@ -16,12 +16,12 @@ h1{
         
         font-weight: 400;
        
-        background:#886a76;
+        background:#8f878a;
         border: 5px solid #ffffff;
     
   }
   
-   p{
+   h2, p {
        background: #ffffff;
        border-radius: 5px;
        margin-left: 20px;
