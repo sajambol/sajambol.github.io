@@ -23,12 +23,12 @@ h1{
   
    p{
        background: #ffffff;
-       border: 10px ;
+       border-radius: 5px;
        margin-left: 20px;
     text-decoration: none;
     text-align: left;
-    width: 120px;
-    height: 20px;
+    width: 420px;
+    height: 30px;
     flex-wrap: wrap;
     margin-right: 120px;
   }
