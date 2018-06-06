@@ -15,6 +15,14 @@
     
   }
   
+  .caja1 p{
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    margin-right: 1220px;
+  }
+
   p{
       color: aliceblue;
       /* width: auto; */
