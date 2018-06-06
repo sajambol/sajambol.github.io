@@ -21,6 +21,10 @@
     flex-wrap: wrap;
     margin-right: 1220px;
   }
+.caja1 h2 p{
+padding: none
+
+}
 
   p{
       color: aliceblue;
