@@ -4,10 +4,10 @@
     margin-left: left;
     margin-right: auto;
     float: left;
-   
+   padding: none;
     border:30px solid  #333;
     max-width: 40px;
-    right: 40px;
+    left:  40px;
     
     
   }
