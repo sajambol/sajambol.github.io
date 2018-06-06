@@ -4,7 +4,7 @@
     margin-right: auto;
     float: left;
     background: rgb(144, 171, 230);
-    color: rgb(255, 252, 251);
+    /* color: rgb(255, 252, 251); */
     border:5px solid blue;
     
   }
@@ -12,20 +12,22 @@
   p{
       width: auto;
       height: 70px;
-
-text-align: center;
+      text-align: left;
      
   }
   .caja2{
+      margin-left: 40px;
       float:felt;
       border: 4px solid blue;
   }
 
   .caja3{
+      margin-top: 60px;
     float:left;
     border: 4px solid blue;
 }
 .caja4{
+    margin-top: 50px;
     float:fetlt;
     border: 4px solid blue;
 }
