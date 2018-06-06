@@ -44,6 +44,23 @@ padding: none
       
      
   }
+  #info2{
+    height: 220px;
+    width: 330px;
+    position: absolute;
+    font-style: oblique;
+  }
+  #cinfo2 p{
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+    margin-right: 1220px;
+  }
+  #info2 .caja2 p{
+    font-size: 25px;
+    color: #800000;
+  }
   .caja2{
    margin-right: right;
    
