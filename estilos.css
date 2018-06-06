@@ -1,15 +1,18 @@
 
 .caja1{
+
     margin-left: auto;
     margin-right: auto;
     float: left;
-    background: rgb(144, 171, 230);
+    /* background: rgb(144, 171, 230); */
     /* color: rgb(255, 252, 251); */
-    border:5px solid blue;
+    border:30px solid blue;
+
     
   }
   
   p{
+      color: aliceblue;
       width: auto;
       height: 70px;
       text-align: left;
