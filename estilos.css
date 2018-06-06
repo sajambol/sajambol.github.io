@@ -1,14 +1,16 @@
 
 .caja1{
 
-    margin-left: left;
-    margin:15px 25px 0 10px;
-    float: left;
-   padding: none;
-    border:30px solid  #333;
-    max-width: 40px;
-    left:  40px;
-    
+        font-family: sans-serif;
+        
+        font-size: 18px;
+        
+        font-weight: 400;
+        
+        color: #ffffff;
+        
+        background:#ee0467
+        
     
   }
   
