@@ -24,6 +24,7 @@ h1{
    p{
        background: #ffffff;
        border: 10px ;
+       margin-left: 20px;
     text-decoration: none;
     text-align: left;
     width: 50px;
