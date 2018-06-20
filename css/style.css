@@ -427,10 +427,10 @@ nav {
 	color:#afaa9b;
 }
 .sf-menu li li li a {
-	background: url(../images/header-bg.png);
+	background:url(../images/header-bg.png);
 }
 .sf-menu li li{
-	float:none; 
+	float:none;
 	position:relative;
 	margin:0 0 1px 0;
 }
