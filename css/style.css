@@ -200,7 +200,6 @@ p {padding-bottom:18px;}
 }
 .pad-top {padding-top:8px;}
 /*----- lists -----*/
-
 .list-1 {padding:0 0 20px 0;}
 .list-1 li {
 	display:block;
@@ -425,7 +424,7 @@ nav {
 	background:url(../images/sub-nav-tail.png);
 }
 .sf-menu li li > a:hover, .sf-menu li li.sfHover > a, .sf-menu li li.current > a{
-	color:#afaa9b;
+	color:#afaa9b;s
 }
 .sf-menu li li li a {
 	background:url(../images/header-bg.png);
@@ -586,7 +585,7 @@ footer a {color:#717171;}
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  /* speak: none; */
+  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
